@@ -14,3 +14,5 @@ Un blog
 Y como un amable recordatorio: **Este readme.md es un chiste**.  DiseÃ±ado para el ejemplo. Si llegas acÃ¡ NO TE LO TOMES EN SERIO.
 
 linux, windows y Mac.
+
+Disponible para todos.
